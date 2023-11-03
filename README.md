@@ -10,9 +10,9 @@ go to command prompt and do cd "path of desired directory" press enter
 
 > git clone  "https file from github" #this should add the remote repository to local computer
 
-add git ignore
 
 open readme file
+add git ignore - in the explorer add a .gitignore file and add data 
 
 Make changes in readme and save
 
