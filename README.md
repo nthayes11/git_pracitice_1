@@ -22,4 +22,5 @@ git add . to add the changes/new files
 
 git commit -m "readme.md (or .ipynb or notebook or .gitignore for ignore file)
 
-git push #pushes to github
+git push pushes to github
+git pull pulls changes that were made on github
